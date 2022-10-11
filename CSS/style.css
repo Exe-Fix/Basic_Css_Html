@@ -6,7 +6,7 @@ body
 .main{
 		width: 1366px;
 		height: 100vh;
-		display: inline-block;
+		float: left;
 }
 
 .up{
@@ -16,7 +16,7 @@ body
 		font-family:Georgia;
 		font-size: 21px;
 		margin-bottom: 10px;
-		display: inline-block;
+		float: left;
 		background: yellow;
 		padding: 15px 0px 0px 15px;
 }
@@ -28,7 +28,6 @@ body
 		font-family:Georgia;
 		font-size: 21px;
 		background: yellow;
-		display: inline-block;
 		float: left;
 		margin-right: 10px;
 		padding: 15px 0px 0px 15px;
@@ -42,7 +41,6 @@ body
 		font-size: 21px;
 		background: yellow;
 		float: left;
-		display: inline-block;
 		margin-bottom: 10px;
 		padding: 15px 0px 0px 15px;	
 }
@@ -55,7 +53,6 @@ body
 	   font-size: 21px;
 	   background: yellow;
 	   float: left;
-	   display: inline-block;
 	   margin-left: 10px;
 	   padding: 15px 0px 0px 15px;
 	  
@@ -68,6 +65,6 @@ body
 	   font-size: 21px;
 	   background: yellow;
 	   margin-top:10 px;
-	   display: inline-block;
+	   float: left;
 	   padding: 15px 0px 0px 15px;
 }
